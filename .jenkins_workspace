@@ -1,0 +1,8 @@
+//depot/scg/release_version //workspace/release_version
+//depot/scg/Vagrantfile //workspace/libmars/Vagrantfile
+//depot/scg/.vagrant/... //workspace/libmars/.vagrant/...
++//depot/scg/control_plane/libmars/... //workspace/libmars/...
+//depot/releng-tools/build-scripts/vagrant/vagrantgen //workspace/vagrantgen
+//depot/releng-tools/signingserver/rpmsign.py //workspace/rpmsign.py
+//depot/releng-tools/build-scripts/tools/jenkins-build-espp-package //workspace/jenkins-build
+//depot/releng-tools/build-scripts/tools/version.groovy //workspace/version.groovy

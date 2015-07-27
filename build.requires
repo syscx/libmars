@@ -1,0 +1,6 @@
+gcc
+make
+pkgconfig
+scg-libmemcached
+dbus-devel
+glib2-devel
